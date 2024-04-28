@@ -16,6 +16,38 @@ ShelbAI Chatbot is a web-based chatbot powered by Google's GenerativeAI library 
 To run ShelbAI Chatbot locally, follow these steps:
 
 1. Clone the repository:
-
-```bash
 git clone https://github.com/yourusername/shelbai-chatbot.git
+
+2. Navigate to the project directory:
+cd shelbai-chatbot
+
+3. Install the required dependencies:
+pip install -r requirements.txt
+
+4. Run the Streamlit app:
+streamlit run app.py
+Access the chatbot in your web browser at http://localhost:8501.
+
+5. Usage
+Enter your prompt in the text input field provided.
+Press Enter or click the "Submit" button.
+View the generated response displayed on the screen.
+
+6. Contributing
+Contributions are welcome! If you have any ideas, suggestions, or bug fixes, feel free to open an issue or submit a pull request.
+
+7. License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+8. Acknowledgements
+Streamlit: https://streamlit.io/
+Google GenerativeAI: https://cloud.google.com/ai-platform
+
+
+
+
+
+
+
+
+
