@@ -16,7 +16,7 @@ ShelbAI Chatbot is a web-based chatbot powered by Google's GenerativeAI library 
 To run ShelbAI Chatbot locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/yourusername/shelbai-chatbot.git
+git clone https://github.com/Qasim21569/PBL-Project---SelbAI.git
 
 2. Navigate to the project directory:
 cd shelbai-chatbot
